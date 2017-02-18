@@ -4,7 +4,7 @@ Last updated: February 20, 2017
 
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
-Base on Android permission, You can see we dont collect any data. What is yours stay in your hands.
+Base on Android permissions, You can see we dont collect any data. What is yours are stayed in your hands.
 
 #Information Collection And Use
 
